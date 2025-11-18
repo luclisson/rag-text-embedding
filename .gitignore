@@ -1,0 +1,9 @@
+# Ignore Python virtual environment
+.venv/
+
+# Ignore Qwen3 model folder and model files
+Qwen3_Embedding_0.6B_Q8_0_gguf_en_6.1.1_3.0_1754314464060/
+*.gguf
+
+__pycache__/
+*.py[cod]
