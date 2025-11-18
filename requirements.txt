@@ -1,0 +1,4 @@
+spark-nlp==6.2.2
+pyspark
+qdrant-client
+pandas
